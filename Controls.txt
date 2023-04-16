@@ -1,0 +1,4 @@
+Move by pressing A and D or Left Arrow and Right Arrow
+
+
+Shoot with Space
